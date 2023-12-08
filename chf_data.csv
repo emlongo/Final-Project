@@ -1,0 +1,68 @@
+ID,MRN,Date,Module_topic,Module_language,Group,Age,Race/Ethnicity,Preferred_language,Education_level,BMI,SBP_initial,DBP_initial,Housing,Drug_use,Tobacco_use,Comorbidities_medical,Comorbidities_psych,Health_confidence_Q1,Health_confidence_Q2,Health_confidence_Q3,Health_confidence_Q4,Health_confidence_Q5,Satisfaction,Quiz_correct,Quiz_total,Quiz_score,Readmit_30day_all,Readmit_30day_CHF,Readmit_60day_all,Readmit_60day_CHF,Readmit_90day_all,Readmit_90day_CHF,Readmit_12mo_all,Readmit_12mo_CHF
+1,100194739,9/22/21,Heart Failure,English,Treatment,65,Black,English,High school,23.9,132,100,1,1,1,1,1,4,4,1,4,4,5,11,12,91.67,1,1,1,1,0,0,0,0
+2,102019130,9/22/21,Heart Failure,English,Treatment,54,Black,English,High school,25.61,95,76,1,1,1,1,0,1,3,2,1,3,1,11,12,91.67,0,0,0,0,0,0,1,0
+3,100211693,9/27/21,Heart Failure,English,Control,56,Mexican,Bilingual,Less than elementary school,73.6,146,88,0,0,0,1,0,2,4,2,3,4,5,3,12,25,0,0,0,0,0,0,0,0
+4,100647791,9/29/21,Heart Failure,English,Treatment,59,Other,English,High school,22.68,112,66,0,1,0,1,0,1,5,5,5,5,5,12,12,100,1,1,0,0,0,0,0,0
+5,102180342,10/6/21,Heart Failure,English,Control,69,Black,English,High school,38.9,120,65,0,0,0,1,0,4,1,3,3,4,3,6,12,50,0,0,0,0,0,0,0,0
+6,100316636,10/11/21,Heart Failure,English,Control,43,Black,English,High school,42.87,183,110,0,1,1,1,1,5,5,4,4,4,4,6,12,50,0,0,0,0,0,0,0,0
+7,101483323,10/11/21,Heart Failure,English,Control,32,Black,English,Greater than college,32.31,138,99,0,0,0,1,0,5,3,3,5,5,2,7,12,58.33,0,0,0,0,0,0,0,0
+8,101883483,10/11/21,Heart Failure,English,Treatment,34,Other,English,High school,89.11,144,73,0,0,0,1,0,4,5,4,5,5,5,7,12,58.33,0,0,0,0,1,1,1,1
+9,100320274,10/21/21,Heart Failure,English,Treatment,66,Black,English,High school,27.47,118,76,1,1,1,1,0,2,4,4,3,2,5,8,12,66.67,0,0,0,0,0,0,0,0
+10,102025023,10/26/21,Heart Failure,English,Treatment,37,Filipino,English,High school,23.3,150,95,0,1,1,1,0,4,5,4,3,5,5,12,12,100,0,0,0,0,0,0,0,0
+11,102019651,10/26/21,Heart Failure,English,Control,24,Mexican,English,High school,70.56,120,55,0,1,1,1,0,5,5,4,5,5,5,10,12,83.33,0,0,0,0,0,0,1,1
+12,101322020,11/2/21,Heart Failure,English,Treatment,40,Filipino,English,High school,48.27,147,83,0,0,0,1,0,4,5,4,4,5,5,11,12,91.67,0,0,0,0,0,0,0,0
+13,101332942,11/2/21,Heart Failure,English,Control,63,Mexican,English,College,51.3,138,94,0,0,0,1,0,4,5,4,5,5,5,7,12,58.33,1,1,1,0,1,0,1,0
+15,102210485,11/10/21,Heart Failure,English,Control,67,Black,English,Middle school,35.27,106,78,0,0,1,1,0,4,4,4,4,4,4,9,12,75,0,0,0,0,0,0,0,0
+16,100444964,11/10/21,Heart Failure,English,Treatment,55,Mexican,Bilingual,College,23.86,105,92,0,0,0,1,0,4,4,3,4,3,5,7,12,58.33,0,0,0,0,0,0,1,1
+17,100185489,11/15/21,Heart Failure,English,Treatment,29,Mexican,English,High school,31.75,106,77,0,1,0,0,0,4,4,5,5,5,5,9,12,75,1,1,0,0,0,0,1,1
+18,101156675,11/15/21,Heart Failure,English,Treatment,36,Central American,English,High school,27.47,108,82,0,0,0,1,0,4,5,5,5,5,4,11,12,91.67,0,0,1,1,0,0,1,1
+20,102007982,11/17/21,Heart Failure,English,Treatment,56,Black,English,Middle school,40.82,128,75,1,1,1,1,1,3,5,5,4,5,3,9,12,75,1,1,0,0,1,1,0,0
+22,101836909,12/10/21,Heart Failure,English,Treatment,46,Mexican,English,High school,30.62,171,119,0,1,1,1,0,1,4,2,2,3,5,11,12,91.67,0,0,0,0,0,0,0,0
+23,100144478,12/21/21,Heart Failure,English,Treatment,63,Black / Central American,English,Middle school,19.4,159,62,0,0,0,1,0,4,4,5,3,5,4,8,12,66.67,1,1,0,0,0,0,1,0
+24,100185489,12/22/21,Heart Failure,English,Treatment,29,Other,English,High school,NA,NA,NA,NA,NA,NA,NA,NA,4,4,4,4,4,5,10,12,83.33,0,0,0,0,0,0,0,0
+25,101069931,12/28/21,Heart Failure,English,Control,57,Other,English,High school,19.88,110,81,0,0,0,1,1,5,5,3,3,4,2,4,10,40,0,0,0,0,0,0,0,0
+26,102239708,12/28/21,Heart Failure,English,Treatment,63,Black,English,High school,33.75,132,54,1,1,0,1,0,3,4,4,3,4,2,11,12,91.67,1,1,0,0,0,0,1,1
+28,100911369,12/30/21,Heart Failure,English,Control,51,African American,English,High school,45.71,122,100,0,0,1,0,0,4,5,4,4,4,5,10,12,83.33,0,0,0,0,0,0,0,0
+29,102246438,1/11/22,Heart Failure,English,Treatment,58,European,English,High school,37.22,102,78,0,0,0,1,0,1,2,2,2,2,NA,10,12,83.33,0,0,0,0,0,0,0,0
+30,102257488,1/18/22,Heart Failure,English,Treatment,57,African American / Black,English,Middle school,28.67,132,72,1,1,1,1,0,1,4,4,2,2,5,10,12,83.33,0,0,0,0,0,0,0,0
+31,100516893,1/18/22,Heart Failure,English,Treatment,55,Black,English,Middle school,29.42,104,64,1,1,0,1,0,3,2,4,4,4,4,6,12,50,1,0,1,0,0,0,0,0
+32,101468016,1/19/22,Heart Failure,English,Treatment,49,African American,English,Middle school,22.11,154,108,0,1,0,1,0,5,2,4,4,5,5,9,12,75,0,0,0,0,0,0,0,0
+33,102272227,1/20/22,Heart Failure,English,Control,41,Filipino,English,High school,54.43,155,98,0,1,1,1,0,3,4,2,4,4,5,9,12,75,0,0,0,0,0,0,0,0
+34,100209910,1/24/22,Heart Failure,English,Control,50,Black,English,High school,58.64,132,70,1,1,1,1,0,2,4,3,4,3,5,6,12,50,0,0,0,0,1,0,1,1
+35,102227770,1/27/22,Heart Failure,English,Control,56,Black,English,High school,24.77,119,83,1,1,1,0,0,1,4,2,2,4,4,7,12,58.33,0,0,0,0,0,0,1,1
+36,100443239,2/11/22,Heart Failure,English,Treatment,52,African American,English,Middle school,32.32,103,77,1,1,0,1,1,5,,3,3,4,2,9,12,75,0,0,0,0,0,0,0,0
+38,101253857,5/10/22,Heart Failure,English,Treatment,57,African American,English,High school,19.79,118,66,1,0,1,1,0,3,5,3,4,4,5,9,12,75,0,0,0,0,0,0,0,0
+39,101346265,5/11/22,Heart Failure,English,Control,63,Black,English,,32.6,103,80,0,1,0,1,0,1,4,3,1,3,4,5,12,41.67,1,1,0,0,0,0,0,0
+40,100628525,5/18/22,Heart Failure,English,Control,52,Mexican,English,High school,38.49,141,90,0,0,0,1,0,3,2,4,3,4,5,8,12,66.67,0,0,0,0,1,1,1,1
+41,102369041,5/24/22,Heart Failure,English,Control,39,Filipino,English,College,45.49,116,70,0,0,0,0,0,5,5,4,5,5,5,10,12,83.33,0,0,0,0,0,0,1,0
+42,102373368,5/24/22,Heart Failure,English,Treatment,55,Other,English,High school,NA,NA,NA,NA,NA,NA,NA,NA,2,4,5,5,5,4,10,12,83.33,0,0,0,0,0,0,0,0
+43,102211378,5/31/22,Heart Failure,English,Treatment,70,Latin American,English,High school,23.37,102,66,1,0,1,1,0,3,3,4,2,4,5,11,12,91.67,0,0,0,0,0,0,1,1
+46,102385444,6/9/22,Heart Failure,English,Control,41,Central American,English,High school,46.66,122,83,0,0,1,1,0,4,4,4,4,4,5,12,12,100,0,0,0,0,0,0,0,0
+48,100408121,6/10/22,Heart Failure,English,Treatment,71,Central American,English,Greater than college,20.99,148,105,1,0,1,1,0,4,4,5,4,1,4,8,12,66.67,0,0,0,0,0,0,1,1
+51,102407911,7/7/22,Heart Failure,English,Treatment,35,Mexican,English,High school,43.44,107,57,0,1,0,0,0,3,5,3,3,5,5,11,12,91.67,0,0,0,0,0,0,0,0
+53,100944192,7/18/22,Heart Failure,English,Control,66,Cuban,English,High school,30.83,119,76,1,0,0,1,0,2,2,4,4,5,5,9,12,75,0,0,1,1,0,0,0,0
+56,100794576,8/4/22,Heart Failure,English,Control,43,Black,English,High school,26.39,135,88,1,1,1,0,0,3,4,3,4,3,5,10,12,83.33,0,0,0,0,0,0,0,0
+58,100143814,8/24/22,Heart Failure,English,Control,53,African American,English,College,46.54,165,94,0,0,0,1,0,5,2,4,5,5,5,7,12,58.33,0,0,0,0,0,0,1,1
+61,100541416,10/28/22,Heart Failure,English,Treatment,46,Mexican,English,Middle school,34.87,139,94,0,0,0,1,0,3,4,4,4,4,1,10,12,83.33,0,0,0,0,0,0,0,0
+62,102509057,10/28/22,Heart Failure,English,Control,47,Latin American,English,High school,29.24,119,78,0,0,0,1,0,5,5,5,5,5,5,9,12,75,0,0,0,0,0,0,0,0
+1,100473961,9/16/21,Heart Failure,Spanish,Control,71,Mexican,Spanish,Elementary school,29.09,99,56,0,0,0,1,0,1,1,3,4,4,4,6,12,50,0,0,0,0,0,0,0,0
+2,100308449,9/22/21,Heart Failure,Spanish,Control,58,Mexican,Spanish,High school,26.84,132,67,0,0,0,1,0,3,4,4,1,5,4,6,12,50,0,0,0,0,0,0,0,0
+6,100912323,10/6/21,Heart Failure,Spanish,Treatment ,69,Central American,Bilingual,College,38.15,138,67,0,0,0,1,0,4,4,4,4,4,5,11,12,91.67,0,0,0,0,0,0,0,0
+8,101046296,10/7/21,Heart Failure,Spanish,Treatment ,53,Mexican,Spanish,Middle school,43.68,178,84,0,0,0,1,0,2,4,4,4,4,5,11,12,91.67,0,0,0,0,0,0,1,0
+9,102004490,10/19/21,Heart Failure,Spanish,Control,62,Mexican,Spanish,High school,27.55,92,87,0,0,0,1,0,1,4,1,4,1,5,6,12,50,0,0,1,1,0,0,0,0
+11,100179790,10/21/21,Heart Failure,Spanish,Control,66,Mexican,Spanish,Less than elementary school,24.41,117,63,0,0,0,1,0,1,3,5,3,4,2,3,12,25,0,0,0,0,0,0,0,0
+18,100280869,12/8/21,Heart Failure,Spanish,Treatment ,74,Mexican,Spanish,Elementary school,38.02,91,52,0,0,0,1,0,3,3,5,5,5,1,5,12,41.67,0,0,0,0,0,0,0,0
+21,102238638,12/20/21,Heart Failure,Spanish,Treatment ,66,unknown,Spanish,Less than elementary school,27.99,112,67,0,1,1,1,0,3,3,3,4,5,5,9,12,75,0,0,0,0,0,0,0,0
+25,100851428,1/18/22,Heart Failure,Spanish,Control,63,Mexican,Spanish,Less than elementary school,31.33,144,86,0,0,0,1,0,1,3,3,3,3,4,6,12,50,0,0,0,0,0,0,0,0
+26,102270069,1/21/22,Heart Failure,Spanish,Control,32,Mexican,Spanish,Middle school,40.18,126,77,0,1,1,0,0,3,4,4,3,3,5,8,12,66.67,0,0,0,0,0,0,1,1
+27,101757856,1/24/22,Heart Failure,Spanish,Treatment ,51,Mexican,Spanish,Middle school,19.95,117,70,0,0,1,1,0,1,1,3,3,3,1,8,12,66.67,1,1,0,0,0,0,1,0
+28,100209910,1/24/22,Heart Failure,Spanish,Control,64,Black,Spanish,Less than elementary school,58.64,132,70,1,1,1,1,0,3,4,4,3,3,5,9,12,75,0,0,0,0,1,0,1,1
+29,102222813,1/26/22,Heart Failure,Spanish,Control,76,Mexican,Spanish,Less than elementary school,25.2,113,68,0,0,0,1,0,3,4,4,1,4,4,4,12,33.33,0,0,0,0,0,0,0,0
+30,100266422,1/26/22,Heart Failure,Spanish,Treatment ,61,Mexican,Spanish,Middle school,25.59,136,77,0,0,1,1,0,4,4,5,4,3,5,8,12,66.67,0,0,0,0,0,0,0,0
+33,102349102,5/5/22,Heart Failure,Spanish,Treatment ,56,Mexican,Spanish,High school,51,134,89,0,0,0,1,0,4,5,5,5,4,4,9,12,75,0,0,0,0,0,0,0,0
+44,102395777,6/22/22,Heart Failure,Spanish,Control,78,Mexican,Spanish,Less than elementary school,19.5,102,56,0,0,0,0,0,2,4,4,3,4,4,8,12,66.67,0,0,0,0,0,0,0,0
+46,102401466,6/28/22,Heart Failure,Spanish,Control,54,Central American,Spanish,,35.71,156,69,0,0,0,1,0,2,5,5,5,5,5,6,12,50,0,0,0,0,0,0,0,0
+53,0,7/26/22,Heart Failure,Spanish,Treatment ,61,Other,Spanish,Elementary school,NA,NA,NA,NA,NA,NA,NA,NA,1,5,4,5,5,4,8,12,66.67,0,0,0,0,0,0,0,0
+55,102406291,8/18/22,Heart Failure,Spanish,Treatment ,32,Central American,Bilingual,Elementary school,26.51,128,84,0,1,1,0,0,3,5,4,4,4,5,9,12,75,0,0,0,0,0,0,1,0
+56,101293114,8/23/22,Heart Failure,Spanish,Control,73,Mexican,Spanish,Less than elementary school,27.44,93,52,0,0,0,1,0,5,,2,1,5,5,4,12,33.33,0,0,0,0,0,0,1,0
+58,102335328,8/24/22,Heart Failure,Spanish,Control,59,Mexican,Spanish,Middle school,39.5,121,84,0,0,0,1,0,1,2,1,4,4,5,5,12,41.67,0,0,0,0,0,0,0,0
